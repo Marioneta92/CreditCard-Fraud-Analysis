@@ -1,8 +1,8 @@
 # Unit 7 Homework Assignment: Looking for Suspicious Transactions
 
-![Credit card fraudster](Images/credit_card_fraudster.jpg)
+![image](https://user-images.githubusercontent.com/114365472/207195729-9c2a7c7c-534a-4c66-a894-d469263c497d.png)
 
-*[Credit Card Fraudster by Richard Patterson](https://www.flickr.com/photos/136770128@N07/42252105582/) | [Creative Commons Licensed](https://creativecommons.org/licenses/by/2.0/)*
+
 
 ## Background
 
